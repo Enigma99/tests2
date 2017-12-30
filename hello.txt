@@ -4,3 +4,4 @@ it comes before all files
 
 fourthline
 fifth line
+difference content
