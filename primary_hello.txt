@@ -9,4 +9,8 @@ things added
 more things added and added
 new things added
 added changes for new_feature
+<<<<<<< HEAD
 new content added to hello
+=======
+
+>>>>>>> shorten_title
